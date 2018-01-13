@@ -1,0 +1,6 @@
+BOLO_ACTIVE_CHAN="2"
+BOLO_VERBOSE=1
+set.site 14 DIODE_DROP_V 0.5
+set.site 14 THEAT 1.0
+set.site 14 TCOOL 1.0
+set.site 14 VBIAS 1.0

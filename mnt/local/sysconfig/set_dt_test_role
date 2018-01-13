@@ -1,0 +1,3 @@
+echo "dbpf $HOST:USER pgm"
+echo "dbpf $HOST:TEST_DESCR BOLO GOLD"
+
