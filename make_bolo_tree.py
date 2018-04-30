@@ -1,5 +1,11 @@
 #!/usr/bin/env python
-
+# treename_path must exist
+# eg export acq2106_xxx_path=$PWD/acq2106_xxx
+# mkdir acq2106_xxx_path
+# make_bolo_tree.py acq2106_xxx
+# append to MDSplus path definition
+# /usr/local/mdsplus/local/envsyms
+# acq2106_xxx_path /home/dt100/trees/acq2106_xxx
 import argparse
 from MDSplus import *
 
